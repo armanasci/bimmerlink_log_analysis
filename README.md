@@ -20,6 +20,13 @@ It <b>must not</b> be used for real diagnostics, vehicle troubleshooting, or saf
 For any official or accurate diagnosis, always rely on certified tools or professional automotive technicians.
 </p>
 
+<h3><strong>Web Edition</strong>
+<p>
+  <a href="https://armanasci.github.io/bimmerlink_log_analysis_web/" target="_blank">
+    https://armanasci.github.io/bimmerlink_log_analysis_web/
+  </a>
+</p></h3>
+
 <h3><strong>SourceForge Download</strong>
 <p>
   <a href="https://sourceforge.net/projects/bimmerlink-log-analysis/files/latest/download" target="_blank">
